@@ -9,4 +9,3 @@ def ladder():
         person.append(name)
     choice = random.choice(person)
     print("발표자:", choice)
-    # print(person)
